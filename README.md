@@ -12,9 +12,7 @@ To study the mode characteristics of fiber optic cable and observe the lower ord
 3. Single Mode Fiber  
 4. Fiber Holding Stand  
 5. Opaque Screen  
-
 ---
-
 
 ## 📚 THEORY
 
@@ -34,8 +32,7 @@ When V > 2.045, other modes may propagate, when V is slightly greater than 2.045
 ---
 
 ## 🧪 PROCEDURE
-
-1.1.	Keep optical bread board onto original and flat table surface, so that it will not toggle.
+1.	Keep optical bread board onto original and flat table surface, so that it will not toggle.
 2.	Fix the pre-fitted cylindrical head of the He-Ne laser source on to the surface of the bread board. Confirm the rigid ness of the mount.
 3.	Fix the laser to the fiber coupler mount on to the bread board with base plate orientation of it towards He-Ne laser exit.
 4.	Turn on the He-Ne laser and locate the beam spot on the central portion of the laser-fiber
@@ -52,8 +49,6 @@ coupling lens assembly by adjusting the vertical and horizontal travel arrangeme
 
 
 ## 📊 OBSERVATION AND CALCULATION
-
-- 
 Parameter of given fiber are,
 A = 4.5μm (core radius), N.A = 0.11, λ = 633nm V = 2 π x A x N.A / λ = 4.91
 From fig. shows only 4 LP modes propagates.
