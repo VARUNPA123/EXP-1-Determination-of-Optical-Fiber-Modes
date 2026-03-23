@@ -41,12 +41,10 @@ coupling lens assembly by adjusting the vertical and horizontal travel arrangeme
 6.	Confirm the central alignment of the laser beam at the exit of the laser fiber coupler by putting a white card sheet and zooming the spot on to it. In case the spot is found of center, adjust it to the center by slightly moving the screws of the laser mount.
 7.	Put the multimode optical patch cord on to the laser fiber coupler exit and fix the other end of the fiber in the fiber holding stand by moving the grub screws provided with the holder.
 8.	Notice the bright laser beam spot coming out of the fiber. Adjust the height of exit tip of the fiber to about 50mm. Min. from the white sheet of the paper.
- 
 9.	Observe the bright round shape circular spot with laser speckle pattern on to the screen. Multimode pattern can be refined by screws provided with laser-fiber coupler. Slightly adjusting or moving the screws on the laser mount, view the change in pattern of this multimode spot. After observing the multimode pattern, change multimode fiber optic patch cord with single mode fiber patch cord.
 10.	For single mode patch cord, the blur pattern of the various single mode patterns will appear on the screen. That is, single circular two lobes, three lobes and four lobes patterns can be very well observed by slightly adjusting the Allen screws of the laser-fiber coupler.
 
 ---
-
 
 ## 📊 OBSERVATION AND CALCULATION
 Parameter of given fiber are,
@@ -55,12 +53,10 @@ From fig. shows only 4 LP modes propagates.
 Total number of modes = V2 / 2 = 4.912 / 2
 <img width="932" height="1015" alt="image" src="https://github.com/user-attachments/assets/09f47716-8ad0-42f6-a2d1-a9afa7590b4f" />
 
-
 ---
 ## Tabulation
-<img width="1056" height="1410" alt="image" src="https://github.com/user-attachments/assets/b557c9e0-f7de-45f8-b5fd-1b482208996d" />
+<img width="663" height="697" alt="image" src="https://github.com/user-attachments/assets/147f3e94-f3f4-4ad7-9cbe-03b2bacf5860" />
 
 ---
-
 ## Result
 The fiber supports **6 Linearly Polarized (LP) modes** at the given parameters.
